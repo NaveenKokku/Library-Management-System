@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @AllArgsConstructor
 
 @Entity
-@Table(name = "student info")
+@Table(name = "studentinfo")
 
 public class Student {
     @Id
